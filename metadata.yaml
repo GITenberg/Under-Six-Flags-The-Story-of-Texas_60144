@@ -1,0 +1,33 @@
+_repo: Under-Six-Flags-The-Story-of-Texas_60144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, M. E. M. (Mollie Evelyn Moore)
+    aliases:
+    - Davis, Mollie Evelyn Moore
+    - Davis, Mollie E. Moore
+    - Moore, Mollie E.
+    birthdate: 1852
+    deathdate: 1909
+    gutenberg_agent_id: '50815'
+    url: http://www.gutenberg.org/2009/agents/50815
+    wikipedia: https://en.wikipedia.org/wiki/Mollie_Evelyn_Moore_Davis
+description: ''
+gutenberg_issued: '2019-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60144'
+  lccn: 01006594
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F350.5'
+- !lcsh 'Texas -- History'
+- GITenberg
+tableOfContents: Fort St. Louis -- San Antonio -- Nacogdoches -- San Felipe de Austin
+  -- Goliad -- Houston -- Austin -- Galveston -- A flight of years -- The new century
+  -- Texas.
+title: 'Under Six Flags: The Story of Texas'
+url: http://www.gutenberg.org/ebooks/60144
